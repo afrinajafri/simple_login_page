@@ -4,7 +4,7 @@ PHP-based system to register, login, logout and change password.
 
 ## How it works
 
-* The system is coded 100% in PHP (although a minimal knowledge of HTML is required). 
+* The system is coded 100% in PHP.
 * There are four main pages: 
 `register.php` for register a new user, 
 `login.php` shows the login form, 
